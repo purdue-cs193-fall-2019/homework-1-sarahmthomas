@@ -18,7 +18,6 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-*** This is the section I edited ***
 1. Numbered
 2. List
 
